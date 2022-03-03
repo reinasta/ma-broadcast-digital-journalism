@@ -7,7 +7,8 @@ permalink: '/form/index.html'
 
 <article id="registration-form">
 
-<h1>Registration form</h1>
+<h1>Register for a hands-on session in our studios</h1>
+<h2>Broadcast House, St George's Works, 47 Colegate, Norwich NR3 1DD</h2>
 
 <form action="" method="POST" name="registation-form-uea" data-netlify="true">
   <div class="form-entry">
