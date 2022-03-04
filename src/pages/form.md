@@ -5,6 +5,8 @@ permalink: '/form/index.html'
 ---
 
 
+<img src="../_includes/images/camera.svg" alt="camera picture" />
+
 <article id="registration-form">
 
 <h1>Register for a hands-on session in our studios</h1>
