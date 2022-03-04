@@ -2,7 +2,7 @@
 siteHead: "Registration form"
 title: Registration
 layout: 'layouts/base.html'
-permalink: '/form/index.html'
+permalink: '/register/index.html'
 ---
 
 
