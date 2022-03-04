@@ -1,5 +1,6 @@
 ---
-title: Gallery
+siteHead: "Gallery"
+title: "Gallery"
 altTitle: 'Our students in action'
 layout: 'layouts/gallery.html'
 permalink: '/gallery/index.html'

@@ -2,23 +2,19 @@
   "items": [
     {
       "text": "Home",
-      "url": "/",
-      "cls": "invisible-nav-item"
+      "url": "/"
     },
     {
-      "text": "Form",
-      "url": "/form/",
-      "cls": "visible-nav-item"
+      "text": "Register",
+      "url": "/register/"
     },
     {
-      "text": "About",
-      "url": "/about/",
-      "cls": "visible-nav-item"
+      "text": "Contact",
+      "url": "/contact/"
     },
     {
       "text": "Gallery",
-      "url": "/gallery/",
-      "cls": "visible-nav-item"
+      "url": "/gallery/"
     }
   ]
 }
