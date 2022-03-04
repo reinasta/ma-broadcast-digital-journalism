@@ -14,10 +14,10 @@
     //background-blend-mode: overlay; // overlay, lighten;
 }
 
-@mixin clapper-top($thinckness) { 
-  border: $thinckness solid $blk; 
+@mixin clapper-top($width) { 
+  border-top: $width solid $blk; 
   border-image: repeating-linear-gradient( 45deg, #eee2ca, #eee2ca 1%, $blk 1%, $blk 8%) 10;
-  border-style: solid hidden hidden hidden;
+  //border-style: solid hidden hidden hidden;
   //padding-top: 0.5vw;
   //margin-bottom: 4vw; 
   //margin-left: 4vw; 
