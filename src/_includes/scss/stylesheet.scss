@@ -17,7 +17,7 @@
 @mixin clapper-top($width) { 
   //border-top: $width solid $blk; 
   border-width: $width;
-  border-image: repeating-linear-gradient( 45deg, #eee2ca, #eee2ca 1%, $blk 1%, $blk 8%) 10;
+  //border-image: repeating-linear-gradient( 45deg, #eee2ca, #eee2ca 1%, $blk 1%, $blk 8%) 10;
   border-style: solid hidden hidden hidden;
   //padding-top: 0.5vw;
   //margin-bottom: 4vw; 
