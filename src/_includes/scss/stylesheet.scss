@@ -15,10 +15,13 @@
 }
 
 @mixin clapper-top($width) { 
-  //border-top: $width solid $blk; 
-  border-top-width: $width;
+  border-top: $width solid $blk; 
+  //border-top-width: $width;
   border-image: repeating-linear-gradient( 45deg, #eee2ca, #eee2ca 1%, $blk 1%, $blk 8%) 10;
-  border-style: solid none none none;
+  border-left-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  //border-style: solid none none none;
   //padding-top: 0.5vw;
   //margin-bottom: 4vw; 
   //margin-left: 4vw; 
