@@ -2,46 +2,39 @@
   "images": [
     {
       "title": "In the studio",
-      "student": "Student Names",
+      "student": "Sian and Isaac",
       "localUrl": "../_includes/images/bjm1.jpeg",
       "cls": "gallery-image"
     },
     {
       "title": "Radio",
-      "student": "Student Names",
+      "student": "Lauren",
       "localUrl": "../_includes/images/bjm2.jpeg",
       "cls": "gallery-image"
     },
     {
       "title": "Interview",
-      "student": "Student Names",
+      "student": "Louise",
       "localUrl": "../_includes/images/bjm3.jpeg",
       "cls": "gallery-image"
     },
     {
-      "title": "Video editing",
-      "student": "Student Names",
+      "title": "In the Gallery",
+      "student": "Sian and Pelin ",
       "localUrl": "../_includes/images/bjm4.jpeg",
       "cls": "gallery-image"
     },
     {
       "title": "In the studio",
-      "student": "Student Names",
+      "student": "Paris and Lauren",
       "localUrl": "../_includes/images/bjm5.jpeg",
       "cls": "gallery-image"
     },
     {
-      "title": "Recording",
-      "student": "Student Names",
+      "title": "Teleprompter",
+      "student": "",
       "localUrl": "../_includes/images/bjm6.jpeg",
       "cls": "gallery-image"
-    },
-    {
-      "title": "Monitoring",
-      "student": "Student Names",
-      "localUrl": "../_includes/images/bjm7.jpeg",
-      "cls": "gallery-image"
     }
-
   ]
 }

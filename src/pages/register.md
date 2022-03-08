@@ -11,6 +11,7 @@ permalink: '/register/index.html'
 <article id="registration-form">
 
 <h1>Register for a hands-on session in our studios</h1>
+<h2>Wednesday 4th May from 2-4pm</h2>
 <h2>Broadcast House, St George's Works, 47 Colegate, Norwich NR3 1DD</h2>
 
 <form action="" method="POST" name="registation-form-uea" data-netlify="true">
@@ -31,22 +32,13 @@ permalink: '/register/index.html'
     <input type="text" name="year" id="name" required>
   </div>
   <div class="form-entry">
-  <fieldset>
-    <legend>Dates</legend>
-    <input type="radio" name="radio"> 
-    <label>Wednesday, 16th March 2022, from 2-4pm</label>
-    <br>
-    <input type="radio" name="radio">
-    <label>Wednesday, 4th May 2022, from 2-4pm</label>
-  </fieldset>
-  </div>
-  <div class="form-entry">
     <fieldset>
     <legend>Experience of media (optional): </legend>
-      <input type="checkbox" id="some-experience" name="some-experience" value="Some">
-      <label for="some-experience"> I have some experience (e.g. social media)</label><br>
       <input type="checkbox" id="training" name="training" value="Training">
-      <label for="training"> I have some media training</label><br>
+      <label for="training"> I have some experience (e.g. social media)</label><br>
+      <input type="checkbox" id="some-experience" name="some-experience" value="Some">
+      <label for="some-experience">I have been involved in student media (e.g. Concrete, Livewire, other)
+      </label><br>
       <input type="checkbox" id="word-experience" name="work-experience" value="Work">
       <label for="work-experience"> I have work experience of media</label><br>
       <input type="checkbox" id="no-experience" name="no-expereince" value="None">

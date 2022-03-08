@@ -10,7 +10,7 @@ permalink: '/contact/index.html'
 
 <h2>You’ll be trained by experienced professional journalists who will help you to kick start your career in the media.</h2>
 
-<p>Email:  <a href="mailto:school@example.com">school@example.com</a></p>
+<p>Email:  <a href="mailto:C.Precey@uea.ac.uk">C.Precey@uea.ac.uk</a> (Clare)</p>
 <p>More info: <a href="https://bloc.uea.ac.uk/">&#127760; https://bloc.uea.ac.uk/</a></p>
 
 
