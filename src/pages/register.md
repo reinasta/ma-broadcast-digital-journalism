@@ -17,7 +17,8 @@ permalink: '/register/index.html'
 <form action="" method="POST" name="registation-form-uea" data-netlify="true" netlify-honeypot="bot-field">
   <div class="hidden">
     <label>
-      Are you a bot? If yes, please fill this in. Otherwise ignore this. <input name="bot-field" />
+      Are you a bot? If yes, please fill this in. Otherwise ignore this. 
+      <input name="bot-field" />
     </label>
   </div>
   <div class="form-entry">
@@ -51,7 +52,7 @@ permalink: '/register/index.html'
     </fieldset>
   </div>
   <div class="form-entry submit-div">
-    <input type="submit" value="Subscribe!">
+    <input type="submit" value="Register">
   </div>
 </form>
 
