@@ -14,7 +14,12 @@ permalink: '/register/index.html'
 <h2>Wednesday 4th May from 2-4pm</h2>
 <h2>Broadcast House, St George's Works, 47 Colegate, Norwich NR3 1DD</h2>
 
-<form action="" method="POST" name="registation-form-uea" data-netlify="true">
+<form action="" method="POST" name="registation-form-uea" data-netlify="true" netlify-honeypot="bot-field">
+  <div class="hidden">
+    <label>
+      Are you a bot? If yes, please fill this in. Otherwise ignore this. <input name="bot-field" />
+    </label>
+  </div>
   <div class="form-entry">
     <label for="name">Full name: </label>
     <input type="text" name="name" id="name" required>
@@ -34,14 +39,14 @@ permalink: '/register/index.html'
   <div class="form-entry">
     <fieldset>
     <legend>Experience of media (optional): </legend>
-      <input type="checkbox" id="training" name="training" value="Training">
-      <label for="training"> I have some experience (e.g. social media)</label><br>
-      <input type="checkbox" id="some-experience" name="some-experience" value="Some">
-      <label for="some-experience">I have been involved in student media (e.g. Concrete, Livewire, other)
+      <input type="checkbox" id="some-experience" name="some-experience" value="SomeExperience">
+      <label for="some-experience"> I have some experience (e.g. social media)</label><br>
+      <input type="checkbox" id="specific-experience" name="specific-experience" value="SpecificExperienceEgConcrete">
+      <label for="specific-experience">I have been involved in student media (e.g. Concrete, Livewire, other)
       </label><br>
-      <input type="checkbox" id="word-experience" name="work-experience" value="Work">
+      <input type="checkbox" id="work-experience" name="work-experience" value="WorkExperience">
       <label for="work-experience"> I have work experience of media</label><br>
-      <input type="checkbox" id="no-experience" name="no-expereince" value="None">
+      <input type="checkbox" id="no-experience" name="no-expereince" value="NoExperience">
       <label for="no-experience"> No experience, really. I'm keen to learn more.</label><br>
     </fieldset>
   </div>
